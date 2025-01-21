@@ -6,44 +6,29 @@ Previously, I was a research affiliate at Principle of Intelligence and Behavior
 
 I completed my PhD at the University of Sussex under the supervision of Lionel Barnett and Anil Seth, working on estimating information flow between different regions of the brain during visual perception to empirically investigate predictive coding. 
 
-# 🗞️ Publications
+# 🗞️ Some publications
 
+* 2024: [An information-theoretic study of lying in LLMs](https://openreview.net/pdf?id=9AM5i1wWZZ), Ann-Kathrin Dombrowski, **Guillaume Corlouer**, ICML 2024 Workshop on LLMs and Cognition Poster
+* 2024: [Degeneracies are sticky for SGD](https://www.alignmentforum.org/posts/JDrxA3vwZAKZfmShz/degeneracies-are-sticky-for-sgd), **Guillaume Corlouer**, Nicolas Macé, AI alignment forum
+* 2023: [Linearly Structured World Representations](https://proceedings.mlr.press/v243/ivanitskiy24a) in Maze-Solving Transformers, Michael Ivanitskiy, Alexander F Spies, Tilman Räuker, **Guillaume Corlouer**, Proceedings of UniReps: the First Workshop on Unifying Representations in Neural Models
+* 2023: [Investigating information transfer in ECoG time series during visual perception](https://sussex.figshare.com/articles/thesis/Investigating_information_transfer_in_ECoG_time_series_during_visual_perception_Parametric_multivariate_Granger_causality_estimation_methods_and_applications_to_a_hierarchy_of_visually_responsive_ECoG_channels_in_humans_viewing_pictures/24347092?file=42759271), **Guillaume Corlouer**, PhD thesis
+* 2022: [The optimal timing of AGI safety work](https://longtermrisk.org/the-optimal-timing-of-spending-on-agi-safety-work-why-we-should-probably-be-spending-more-now/), Tristan Cook, **Guillaume Corlouer**, Effective Altruism forum
 
+# 🤖 What I'm currently working on
+I am investigating the application of multivariate information-theoretic measures of emergences like [dynamical independence](https://arxiv.org/abs/2106.06511) to discover useful latent variables from the activation of autoregressive deep neural networks in a data-driven way. I am particularly excited to leverage these methods to discover belief-states from the activations that are [predicted](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their) by Crutchfield's computational mechanics.
 
-
-# 👀 I’m interested in ...
-
-I am passionate and fascinated by the complex, flexible and optimized functioning of the brain that is 
-yet left to be understood and characterized. I am particularly interested in studying the neural computational
-theories at the basis of information processing, learning and memory formation in neuronal networks. 
-I am interested in answering questions such as: How is information from the environment represented by ensembles of neurons?
-How do the neural networks evolve with learning? 
-How does the brain create, store, and update memories for places and events? 
-I am looking forward to making advances in answering these questions, working at the intersection between
-theoretical neuroscience research and machine learning. It is my conviction that working on both artificial
-and biological neural networks in parallel will enable us to move forward faster in the general understanding of their mechanisms.
-
-# 🌱 I’m currently learning ...
-
-Geometric deep learning, Graph learning.
 
 
 # 🌐 Get to know more about me links ...
 
-Google Scholar https://scholar.google.com/citations?user=oVZ0fSYAAAAJ&hl=en
+* [Google Scholar](https://scholar.google.com/citations?user=0QCJiNgAAAAJ&hl=en)
+* [Linkdin](https://www.linkedin.com/in/guillaume-corlouer-3159a8223/)
+* [Website](https://gcorlouer.github.io/)
+* [Twitter](https://x.com/tkrdan)
 
-Linkdin https://www.linkedin.com/in/clementine-domine-75a6a2150/
-
-Site web https://clementinedomine.github.io
-
-Twitter https://twitter.com/ClementineDomi6
-
-Art loves science Web https://artlovessciences.github.io
 
 # 📫 How to reach me 
-Email clementine.domine98@gmail.com /clementine.domine.20@ucl.ac.uk
-      
-Phone +33782510189
+Email: guillaume.corlouer@gmail.com
 
 <!---
 ClementineDomine/ClementineDomine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
