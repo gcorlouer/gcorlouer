@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Guillaume Corlouer
 
-I am a research scientist in AI safety working at Moirai. I am interested in using deep learning theory, training dynamics and interpretability to make AI safer. 
+I am a research scientist in AI safety working at Stormglass. I am interested in using deep learning theory, training dynamics and interpretability to make AI safer. 
 
 Previously, I was a research affiliate at Principle of Intelligence and Behavior in Biological and Social systems ([PIBBSS](https://pibbss.ai/)), where I worked on singular learning theory and explored the application of information theory for lie detection in LLMs.
 
